@@ -25,7 +25,7 @@
 </div>
 <div class="content">
 <br /><br />
-<div class="link">Quik Links<br />
+<div class="link"><Links-Quick></Links-Quick><br />
   <div class="links">
   <ul>
   <li><a href="#"><span>About Us</span></a><br />
