@@ -18,7 +18,7 @@ if($count==1)
 header('location: donor.php');
 }
 else
-{echo "Incorrect User Name & Password";}
+{echo "Incorrect Name & Password";}
 }
 
 ?>
